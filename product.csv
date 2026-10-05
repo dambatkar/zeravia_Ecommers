@@ -1,0 +1,32 @@
+ProductID,ProductName,Category,UnitPrice
+P001,Laptop,Audio,9999.0
+P002,Wireless Mouse,Mobile,6999.0
+P003,Keyboard,Computers,14999.0
+P004,Monitor, electronics ,14999.0
+P005,Headphones,Mobile,999.0
+P006,Webcam,Accessories,14999.0
+P007,USB Cable,Computers,2999.0
+P008,External SSD,Computers,1499.0
+P009,Printer,Computers,4999.0
+P010,Tablet,Mobile,999.0
+P011,Smartphone,Audio,1999.0
+P012,Power Bank,ELECTRONICS,999.0
+P013,Router,Office,2999.0
+P014,Smartwatch,Mobile,1999.0
+P015,Bluetooth Speaker,Accessories,4999.0
+P016,Desk Lamp,Audio,2999.0
+P017,Mechanical Keyboard,Office,799.0
+P018,Graphics Tablet,Office,1499.0
+P019,SSD 1TB,Accessories,4999.0
+P020,USB Hub,Audio,14999.0
+P021,HDMI Cable,Mobile,799.0
+P022,Laptop Stand,Electronics,6999.0
+P023,Phone Case,Audio,
+P024,Wireless Charger,Accessories,6999.0
+P025,Power Adapter,Office,1999.0
+P026,Gaming Mouse,Mobile,799.0
+P027,Gaming Headset,Audio,1499.0
+P028,Office Chair,Electronics,14999.0
+P029,Backpack,Electronics,14999.0
+P030,Microphone,Computers,2999.0
+P007,USB Cable,Computers,2999.0
